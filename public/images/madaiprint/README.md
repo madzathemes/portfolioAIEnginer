@@ -1,0 +1,1 @@
+Place the madAIprint JPEG screenshots here. See the project README for the expected filenames. These files will be public when the site is deployed.
